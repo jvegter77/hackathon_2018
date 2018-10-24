@@ -1,0 +1,84 @@
+.headingimg {
+    width: 50%;
+}
+
+.headingheader h1{
+    font-family: 'Butcherman', cursive;
+    font-size: 80px;
+    color: #7FFF00;
+}
+
+h2 {
+    padding-top: 50px;
+    font-family: 'Nosifer', cursive;
+    font-size: 25px;
+    color: #7FFF00;
+}
+
+h3 {
+    font-family: 'Nosifer', cursive;
+    font-size: 20px;
+    color: #7FFF00;
+}
+
+h4 {
+    font-family: 'Nosifer', cursive;
+    font-size: 20px;
+    color: #7FFF00;
+}
+
+p {
+    color:#ADFF2F;
+    
+}
+
+hr {
+    color: #008000;
+    background-color:#ADFF2F;
+    height: 3px;
+    width: 80%;
+}
+
+.profilepic {
+    height: 241px;
+}
+
+.container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card {
+    margin: 50px 0px;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+}
+.card img {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+a,
+a:hover {
+    color: #7FFF00;
+}
+
+body {
+    background-color: black;
+}
+
+footer {
+    padding-top: 20px;
+    background-color: #7FFF00;
+}
+
+.footertext p{
+    font-family: 'Nosifer', cursive;
+    font-size: 18px;
+    color: black;
+}
+
+.opinion {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
